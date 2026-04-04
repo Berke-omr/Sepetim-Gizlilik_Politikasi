@@ -1,7 +1,3 @@
----
-title: Sepetim Gizlilik Politikası
----
-
 **Gizlilik Politikası**
 Son Güncelleme Tarihi: 04 Nisan 2026
 
