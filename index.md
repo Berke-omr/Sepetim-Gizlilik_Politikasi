@@ -1,3 +1,13 @@
+---
+title: Sepetim Gizlilik Politikası
+---
+
+**Gizlilik Politikası**
+Son Güncelleme Tarihi: 04 Nisan 2026
+
+Sepetim ("biz", "bize" veya "bizim") olarak gizliliğinize...
+
+
 Gizlilik Politikası
 Son Güncelleme Tarihi: 04 Nisan 2026
 
