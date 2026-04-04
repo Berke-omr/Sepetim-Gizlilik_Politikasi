@@ -1,7 +1,7 @@
 Gizlilik Politikası
-Son Güncelleme Tarihi: [Tarih, örn: 30 Mart 2026]
+Son Güncelleme Tarihi: 04 Nisan 2026
 
-[Uygulama Adı] ("biz", "bize" veya "bizim") olarak gizliliğinize saygı duyuyor ve kişisel verilerinizi korumaya önem veriyoruz. Bu Gizlilik Politikası, [Uygulama Adı] mobil uygulamasını ("Uygulama") kullandığınızda bilgilerinizin nasıl toplandığını, kullanıldığını, korunduğunu ve paylaşıldığını açıklar. Uygulamayı kullanarak bu politikada belirtilen uygulamaları kabul etmiş olursunuz.
+Sepetim olarak gizliliğinize saygı duyuyor ve kişisel verilerinizi korumaya önem veriyoruz. Bu Gizlilik Politikası, Sepetim mobil uygulamasını kullandığınızda bilgilerinizin nasıl toplandığını, kullanıldığını, korunduğunu ve paylaşıldığını açıklar. Uygulamayı kullanarak bu politikada belirtilen uygulamaları kabul etmiş olursunuz.
 
 1. Topladığımız Bilgiler
 Size daha iyi bir hizmet sunabilmek için aşağıdaki bilgileri toplayabiliriz:
@@ -22,11 +22,11 @@ Kullanıcı deneyimini kişiselleştirmek ve iyileştirmek.
 Uygulama ile ilgili teknik sorunları gidermek ve müşteri desteği sağlamak.
 
 3. Üçüncü Taraf Hizmetler ve Bağlantılar
-[Uygulama Adı], kişisel bir alışveriş asistanı ve bağlantı kaydedici olarak çalışır. Uygulama içerisinde kaydettiğiniz veya görüntülediğiniz ürünler, üçüncü taraf e-ticaret sitelerine (örn. Trendyol, Hepsiburada, Zara vb.) aittir.
+Sepetim, kişisel bir alışveriş asistanı ve bağlantı kaydedici olarak çalışır. Uygulama içerisinde kaydettiğiniz veya görüntülediğiniz ürünler, üçüncü taraf e-ticaret sitelerine (örn. Trendyol, Hepsiburada, Zara vb.) aittir.
 
 Biz bu e-ticaret platformlarıyla resmi bir ortaklığa sahip değiliz.
 
-Uygulama içerisindeki bir ürün bağlantısına tıkladığınızda söz konusu üçüncü taraf siteye yönlendirilirsiniz. Bu sitelerin kendi gizlilik politikaları ve kullanım koşulları geçerlidir. Üçüncü taraf sitelerin içeriklerinden, gizlilik uygulamalarından veya satın alma işlemlerinden [Uygulama Adı] sorumlu tutulamaz.
+Uygulama içerisindeki bir ürün bağlantısına tıkladığınızda söz konusu üçüncü taraf siteye yönlendirilirsiniz. Bu sitelerin kendi gizlilik politikaları ve kullanım koşulları geçerlidir. Üçüncü taraf sitelerin içeriklerinden, gizlilik uygulamalarından veya satın alma işlemlerinden Sepetim sorumlu tutulamaz.
 
 4. Veri Güvenliği
 Kişisel bilgilerinizin ve oluşturduğunuz listelerin güvenliğini sağlamak için endüstri standardı güvenlik önlemleri (örneğin güvenli bulut veritabanları ve SSL şifreleme) kullanmaktayız. Ancak, internet üzerinden hiçbir veri aktarımı veya elektronik depolama yöntemi %100 güvenli değildir; bu nedenle mutlak güvenlik garantisi veremeyiz.
@@ -47,4 +47,4 @@ Bu Gizlilik Politikasını zaman zaman güncelleyebiliriz. Herhangi bir değişi
 8. İletişim
 Bu Gizlilik Politikası veya verilerinizin kullanımı hakkında sorularınız, endişeleriniz veya geri bildirimleriniz varsa, bizimle aşağıdaki adresten iletişime geçebilirsiniz:
 
-E-posta: [İletişim E-posta Adresini Buraya Yazın, örn: destek@sepetimapp.com]
+E-posta: sepetim.app1@gmail.com
